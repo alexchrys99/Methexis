@@ -1,0 +1,3 @@
+- [Phase 1: Smart Glasses Subtitle System](Phase1.md) — Operator → Server pipeline with mock subtitles, in-memory index, and basic controls.
+- [Phase 2: Smart Glasses Viewer App](Phase2.md) — HUD-optimized viewer simulating smart glasses display.
+- [Phase 3: Smart Glasses BLE Integration](Phase3.md) — Web Bluetooth API support for real glasses hardware.
