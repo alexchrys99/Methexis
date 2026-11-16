@@ -1,13 +1,13 @@
 --- 
 name: phase2
-description: Phase 2 of the smart glasses subtitle system - Viewer app
+description: Phase 2 of the Methexis subtitle system - Viewer app
 metadata:
   type: project
 ---
 
-## Overview
+## Methexis Phase 2 Overview
 
-Phase 2 implements the **Viewer app** simulating smart glasses optical head-up display (HUD). This app:
+Phase 2 of Methexis implements the **Viewer app** simulating smart glasses optical head-up display (HUD). This app:
 - Connects to the existing WebSocket server
 - Shows active subtitles with a glasses-optimized HUD interface
 - Simulates the look and feel of smart glasses without actual hardware

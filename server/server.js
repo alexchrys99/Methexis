@@ -19,7 +19,7 @@ const app = express();
 app.use(express.json());
 app.get("/health", (_req, res) => res.json({ ok: true, total: subtitles.length, currentIndex }));
 app.get("/subtitles", (_req, res) => res.json(subtitles));
-app.get("/", (_req, res) => res.send("Smart glasses subtitle server is running."));
+app.get("/", (_req, res) => res.send("Methexis subtitle server is running."));
 
 const server = app.listen(PORT, "0.0.0.0", () => {
   console.log(`[server] HTTP listening on http://0.0.0.0:${PORT}`);

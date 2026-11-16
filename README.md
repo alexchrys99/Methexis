@@ -1,6 +1,6 @@
-# Smart Glasses Subtitles — Phase 1
+# Methexis — Subtitle System
 
-Real-time subtitle system for theaters. This Phase 1 focuses on the
+Real-time subtitle system for theaters, part of the **Methexis** initiative. This project handles the
 **Operator → Server → Client** pipeline:
 
 - **`/server`** — Express + `ws` WebSocket server. Holds mock subtitles in
@@ -12,7 +12,7 @@ Real-time subtitle system for theaters. This Phase 1 focuses on the
 ## Layout
 
 ```
-nikos_smartglasses/
+Methexis/
 ├── server/
 │   ├── package.json
 │   ├── server.js          # Express HTTP + ws WebSocket server
@@ -93,3 +93,8 @@ cd viewer && npm install && npm run dev  # http://localhost:5174
 ```
 
 The viewer connects to the same WebSocket server as the operator UI, so you can test both simultaneously.
+
+## GitHub Repositories
+
+- Website: https://github.com/alexchrys99/Methexis_website
+- Main Project: https://github.com/alexchrys99/Methexis

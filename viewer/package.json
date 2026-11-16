@@ -1,7 +1,7 @@
 {
-  "name": "smartglasses-viewer",
+  "name": "methexis-viewer",
   "version": "1.0.0",
-  "description": "Viewer web app simulating smart glasses HUD subtitle display",
+  "description": "Methexis viewer simulating a smart glasses HUD subtitle display",
   "type": "module",
   "scripts": {
     "dev": "vite",

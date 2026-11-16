@@ -1,13 +1,13 @@
 --- 
 name: phase3
-description: Phase 3 of the smart glasses subtitle system - BLE integration
+description: Phase 3 of the Methexis subtitle system - BLE integration
 metadata:
   type: project
 ---
 
-## Overview
+## Methexis Phase 3 Overview
 
-Phase 3 adds Web Bluetooth API support to the Viewer app, enabling real-time subtitle streaming to smart glasses hardware. This phase:
+Phase 3 of Methexis adds Web Bluetooth API support to the Viewer app, enabling real-time subtitle streaming to smart glasses hardware. This phase:
 - Connects to BLE devices via the browser's Web Bluetooth API
 - Streams subtitles to connected glasses
 - Maintains fallback software HUD mode when BLE is unavailable

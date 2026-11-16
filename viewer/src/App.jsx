@@ -170,7 +170,7 @@ const [isSending, setIsSending] = useState(false); // "small" | "large"
 
       {/* Line counter — top-left, minimal */}
       <div className="absolute top-4 left-4 text-xs text-emerald-400/60">
-        {index + 1}
+        Methexis · {index + 1}
       </div>
     </div>
   );

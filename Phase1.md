@@ -1,13 +1,13 @@
 --- 
 name: phase1
-description: Phase 1 of the smart glasses subtitle system
+description: Phase 1 of the Methexis subtitle system
 metadata:
   type: project
 --- 
 
-## Overview
+## Methexis Phase 1 Overview
 
-Phase 1 implements the **Operator → Server → Client** pipeline for a real-time subtitle system in theaters. The system uses:
+Phase 1 of Methexis implements the **Operator → Server → Client** pipeline for a real-time subtitle system in theaters. The system uses:
 - **Node.js + Express** for the server
 - **WebSocket** for real-time subtitle broadcasting
 - **React + Tailwind CSS** for the operator control-room UI

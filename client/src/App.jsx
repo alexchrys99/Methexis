@@ -56,7 +56,7 @@ export default function App() {
       <header className="flex items-center justify-between px-6 py-4 border-b border-slate-800">
         <div>
           <h1 className="text-lg font-semibold tracking-wide">
-            Smart Glasses Subtitles
+            Methexis — Subtitle Control
           </h1>
           <p className="text-xs text-slate-400">Operator Control Room</p>
         </div>

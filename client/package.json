@@ -1,7 +1,7 @@
 {
-  "name": "smartglasses-operator",
+  "name": "methexis-client",
   "version": "1.0.0",
-  "description": "Operator controller UI for the smart glasses subtitle system",
+  "description": "Methexis operator control room for the subtitle system",
   "type": "module",
   "scripts": {
     "dev": "vite",
